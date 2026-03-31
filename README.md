@@ -10,11 +10,11 @@ Demo_data.zip
 **Required dataset:**
 Ref-datasets.zip
 
-**Run:**
-python Supermatrix_Pipeline-NM123.py (You can change the pathway in script)
+**Instruction for use:**
+python Supermatrix_Pipeline-NM123.py   (You can change the pathway in script)
 
 **Results:**
-You can see .fasta/.nex/.tre/ files.
+You can see ".fasta/.nex/.tre/ files" in outdir.
 
 **Note:**
 The original NM126 dataset contained three duplicated genes; therefore, we corrected it here to the NM123 dataset.
