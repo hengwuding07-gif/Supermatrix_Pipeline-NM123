@@ -33,4 +33,6 @@ Baker et al. Phylogenomic analyses indicate the archaeal superphylum DPANN origi
 
 **More information:** https://doi.org/10.6084/m9.figshare.31878814
 
+**Citation:** Yi Y, Cao Z, Wu K, Ding H, et al. A single archaeon couples long-chain fatty acid oxidation to methanogenesis[J]. Nature, 2026: https://doi.org/10.1038/s41586-026-11207-x.
+
 
